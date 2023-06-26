@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" width=”30¨ height=”25" alt="resme alternatif yazı">
+<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" width=”30" height=”25" alt="resme alternatif yazı">
 
 I am skilled at developing complex solutions, creating responsive designs, possessing strong creative thinking skills, high energy and integrity, Ability to create algorithms effectively, and interact positively and communicate appropriately with team members, Quickly grasp new technologies and concepts to develop innovative and creative solutions to problems.
 Ask me about My Projects.
