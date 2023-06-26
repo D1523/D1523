@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="[ornek.jpg](https://contentstatic.techgig.com/thumb/msid-77313069,width-460,resizemode-4/Top-20-programming-languages-used-for-web-development.jpg?119426)" alt="Örnek Resim"/>
+<img src="[[ornek.jpg](https://contentstatic.techgig.com/thumb/msid-77313069,width-460,resizemode-4/Top-20-programming-languages-used-for-web-development.jpg?119426)](https://contentstatic.techgig.com/thumb/msid-77313069,width-460,resizemode-4/Top-20-programming-languages-used-for-web-development.jpg?119426)](https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png)" alt="Örnek Resim"/>
 
 
 I am skilled at developing complex solutions, creating responsive designs, possessing strong creative thinking skills, high energy and integrity, Ability to create algorithms effectively, and interact positively and communicate appropriately with team members, Quickly grasp new technologies and concepts to develop innovative and creative solutions to problems.
